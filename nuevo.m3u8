@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.icons8.com/color/1600/cash-in-hand.png" group-title="PAGOS", INFORMACION DE PAGO
+#EXTINF:-1 tvg-logo="https://img.icons8.com/color/1600/cash-in-hand.png", INFORMACION DE PAGO
 http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?supertvlat=%2F.ts
 #EXTINF:-1,CLA: ANTENA 3
 http://ligatv.net:25461/clarotv/20012019/177
