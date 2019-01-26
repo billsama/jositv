@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0, tvg-id="1" tvg-logo="http://www.stickpng.com/assets/thumbs/580b585b2edbce24c47b2878.png" tvg-name="PAGO"  group-title="PAGO",INFORMATE AQUI TU PAGO
+#EXTINF:0, tvg-id="1" tvg-logo="http://www.stickpng.com/assets/thumbs/580b585b2edbce24c47b2878.png" tvg-name="INFORMACION DE PAGO O DEUDA PAGO"  group-title="PAGO",INFORMATE AQUI TU PAGO
 http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?supertvlat=%2F.ts
 
 #EXTINF:-1,MX: IMAGENTV
