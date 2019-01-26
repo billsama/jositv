@@ -4,8 +4,8 @@
 http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?supertvlat=%2F.ts
 
 
-#EXTINF:-1,MX: MC
-http://ligatv.net:25461/clarotv/20012019/2
+
+
 #EXTINF:-1,MX: NVM Mich
 http://ligatv.net:25461/clarotv/20012019/25
 #EXTINF:-1,MX: TVC
@@ -44,6 +44,8 @@ http://micine.club:8088/live/esnadire/ellobo123/428.ts
 #EXTINF:-1,El Chapulin Colorado (24h)
 http://micine.club:8088/live/esnadire/ellobo123/426.ts
 
+#EXTINF:-1,CLC: Tyc Sports 
+http://micine.club:8088/live/esnadire/ellobo123/334.ts
 #EXTINF:-1,CLC: Fox Sports 1 MX
 http://micine.club:8088/live/esnadire/ellobo123/251.ts
 #EXTINF:-1,CLC: Fox Sports 1 Sur
