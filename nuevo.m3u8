@@ -2,10 +2,10 @@
 
 #EXTINF:-1,PAGUE SU DEUDA
 https://www.dropbox.com/s/blsaify9oop9vm0/%281%29%20EXPLICACION%20DE%20APP%20--%20ACELERADOR%20BITEL%20--%20TV%20EN%20VIVO%2C%20RADIO%20--%20WWE%20-%20YouTube.MP4?dl=0
-#EXTINF:-1, tvg-id="1" tvg-logo="amc.png" tvg-name="Antares "  group-title="Peru ",Antares 
+#EXTINF:-1, tvg-id="2" tvg-logo="amc.png" tvg-name="Antares "  group-title="Peru ",Antares 
 https://5949aa132c8fb.streamlock.net:554/iptvantares/liveantarestv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="1" tvg-logo="amc.png" tvg-name="Atv "  group-title="Peru ", ATV
+#EXTINF:-1, tvg-id="2" tvg-logo="amc.png" tvg-name="Atv "  group-title="Peru ", ATV
 https://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1056768.m3u8
 
 
