@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo=""http://www.stickpng.com/assets/thumbs/580b585b2edbce24c47b2878.png" group-title="LISTA PRIVADA 1080P",VISITANOS
+#EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/143188/isolated/preview/5f44f3160a09b51b4fa4634ecdff62dd-icono-de-dinero-by-vexels.png" group-title="LISTAS",VISITANOS
 http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?supertvlat=%2F.ts
 
 #EXTINF:-1,CLA: ANTENA 3
