@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0, tvg-id="1" tvg-logo="https://images.vexels.com/media/users/3/145759/isolated/preview/1ed942cd576a9f4ae65a8e1d85b71b60-fajo-de-dinero-by-vexels.png"   group-title="PAGO",INFORMATE AQUI TU PAGO
+#EXTINF:0, tvg-id="1"tvg-logo="http://rockypoint360.com/rocky-point-business-directory/wp-content/uploads/2015/10/logo-megacable_1.jpg  group-title="PAGO",INFORMATE AQUI TU PAGO
 http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?supertvlat=%2F.ts
 
 #EXTINF:-1,MX: IMAGENTV
