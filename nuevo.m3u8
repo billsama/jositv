@@ -1,8 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="LISTA PRIVADA 1080P",VISITANOS TVPREMIUMHD.COM
-http://tvpremiumhd.club/lista-gratuita/152826/tv/live.php?id=1124.ts
-#EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/thumbs/580b585b2edbce24c47b2878.png" group-title="PAGOS",INFORMATE AQUI TU PAGO
+#EXTINF:-1 tvg-logo=""http://www.stickpng.com/assets/thumbs/580b585b2edbce24c47b2878.png" group-title="LISTA PRIVADA 1080P",VISITANOS
 http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?supertvlat=%2F.ts
+
 #EXTINF:-1,CLA: ANTENA 3
 http://ligatv.net:25461/clarotv/20012019/177
 #EXTINF:-1,CLA: CARACOL
