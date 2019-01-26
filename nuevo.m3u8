@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.icons8.com/color/1600/cash-in-hand.png", INFORMACION DE PAGO
-http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?supertvlat=%2F.ts
+http://live.tvplayerlatino.com/lista_remota/src1/bEKOK.m3u8
+#EXTINF:-1 tvg-logo=”http://i2.wp.com/ganarconlared.com/wp-content/uploads/2016/06/1466603045_resolutions-24.png?fit=256%2C256” group-title=”PAGO”, PAGOS
 #EXTINF:-1,CLA: ANTENA 3
 http://ligatv.net:25461/clarotv/20012019/177
 #EXTINF:-1,CLA: CARACOL
