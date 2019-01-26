@@ -31,26 +31,6 @@ http://ligatv.net:25461/clarotv/20012019/219
 http://ligatv.net:25461/clarotv/20012019/214
 #EXTINF:-1,CLC: FXM
 http://ligatv.net:25461/clarotv/20012019/218
-
-#EXTINF:-1,El Chavo del 8 (24h)
-http://micine.club:8088/live/esnadire/ellobo123/428.ts
-#EXTINF:-1,El Chapulin Colorado (24h)
-http://micine.club:8088/live/esnadire/ellobo123/426.ts
-
-#EXTINF:-1,CLC: Tyc Sports 
-http://micine.club:8088/live/esnadire/ellobo123/334.ts
-#EXTINF:-1,CLC: Fox Sports 1 MX
-http://micine.club:8088/live/esnadire/ellobo123/251.ts
-#EXTINF:-1,CLC: Fox Sports 1 Sur
-http://micine.club:8088/live/esnadire/ellobo123/252.ts
-#EXTINF:-1,CLC: Fox Sports 2 MX
-http://micine.club:8088/live/esnadire/ellobo123/253.ts
-#EXTINF:-1,CLC: Fox Sports 2 Sur
-http://micine.club:8088/live/esnadire/ellobo123/254.ts
-#EXTINF:-1,CLC: Fox Sports 3 MX
-http://micine.club:8088/live/esnadire/ellobo123/255.ts
-#EXTINF:-1,CLC: Fox Sports 3 Sur
-http://micine.club:8088/live/esnadire/ellobo123/256.ts
 #EXTINF:-1,CLC: FOX ACTION
 http://ligatv.net:25461/clarotv/20012019/213
 #EXTINF:-1,CLC: FOX CLASSICS
@@ -222,5 +202,21 @@ http://ligatv.net:25461/clarotv/20012019/173
 #EXTINF:-1,CLA: CLARO TV
 http://ligatv.net:25461/clarotv/20012019/174
 
-#EXTINF:-1,MX: A&E (ESPERA 5 MINUTOS)
-http://app.ultimate2019.com:80/stream/get/1?token=ZGxjYwDlYwR1AQt1Zj==
+#EXTINF:-1,El Chavo del 8 (24h)
+http://micine.club:8088/live/esnadire/ellobo123/428.ts
+#EXTINF:-1,El Chapulin Colorado (24h)
+http://micine.club:8088/live/esnadire/ellobo123/426.ts
+#EXTINF:-1,CLC: Tyc Sports 
+http://micine.club:8088/live/esnadire/ellobo123/334.ts
+#EXTINF:-1,CLC: Fox Sports 1 MX
+http://micine.club:8088/live/esnadire/ellobo123/251.ts
+#EXTINF:-1,CLC: Fox Sports 1 Sur
+http://micine.club:8088/live/esnadire/ellobo123/252.ts
+#EXTINF:-1,CLC: Fox Sports 2 MX
+http://micine.club:8088/live/esnadire/ellobo123/253.ts
+#EXTINF:-1,CLC: Fox Sports 2 Sur
+http://micine.club:8088/live/esnadire/ellobo123/254.ts
+#EXTINF:-1,CLC: Fox Sports 3 MX
+http://micine.club:8088/live/esnadire/ellobo123/255.ts
+#EXTINF:-1,CLC: Fox Sports 3 Sur
+http://micine.club:8088/live/esnadire/ellobo123/256.ts
