@@ -3,10 +3,6 @@
 #EXTINF:3, tvg-id="3"tvg-logo="http://www.stickpng.com/assets/thumbs/580b585b2edbce24c47b2878.png"  group-title="PAGO",INFORMATE AQUI TU PAGO
 http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?supertvlat=%2F.ts
 
-
-#EXTINF:-1,MX: A&E (ESPERA 5 MINUTOS)
-http://app.ultimate2019.com:80/stream/get/1?token=ZGxjYwDlYwR1AQt1Zj==
-
 #EXTINF:-1,CLA: ANTENA 3
 http://ligatv.net:25461/clarotv/20012019/177
 #EXTINF:-1,CLA: CARACOL
@@ -225,3 +221,6 @@ http://ligatv.net:25461/clarotv/20012019/172
 http://ligatv.net:25461/clarotv/20012019/173
 #EXTINF:-1,CLA: CLARO TV
 http://ligatv.net:25461/clarotv/20012019/174
+
+#EXTINF:-1,MX: A&E (ESPERA 5 MINUTOS)
+http://app.ultimate2019.com:80/stream/get/1?token=ZGxjYwDlYwR1AQt1Zj==
