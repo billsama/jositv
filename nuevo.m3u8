@@ -3,8 +3,7 @@
 #EXTINF:0, tvg-id="1"tvg-logo="http://www.stickpng.com/assets/thumbs/580b585b2edbce24c47b2878.png"  group-title="PAGO",INFORMATE AQUI TU PAGO
 http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?supertvlat=%2F.ts
 
-#EXTINF:-1,MX: IMAGENTV
-http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/40177.m3u8
+
 #EXTINF:-1,MX: MC
 http://ligatv.net:25461/clarotv/20012019/2
 #EXTINF:-1,MX: MVSTV
@@ -41,6 +40,10 @@ http://ligatv.net:25461/clarotv/20012019/219
 http://ligatv.net:25461/clarotv/20012019/214
 #EXTINF:-1,CLC: FXM
 http://ligatv.net:25461/clarotv/20012019/218
+
+#EXTINF:-1,El Chavo del 8 (24h)
+http://micine.club:8088/live/esnadire/ellobo123/428.ts
+
 #EXTINF:-1,CLC: Fox Sports 1 MX
 http://micine.club:8088/live/esnadire/ellobo123/251.ts
 #EXTINF:-1,CLC: Fox Sports 1 Sur
