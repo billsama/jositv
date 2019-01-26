@@ -3,9 +3,9 @@
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?
 
 #EXTINF:-1,CLA: ANTENA 3
-http://ligatv.net:25461/clarotv/20012019/177
+http://micine.club:8088/live/esnadire/ellobo123/667.ts
 #EXTINF:-1,CLA: CARACOL
-http://ligatv.net:25461/clarotv/20012019/175
+http://micine.club:8088/live/esnadire/ellobo123/386.ts
 #EXTINF:-1,CLA: LAS ESTRELLAS LA
 http://ligatv.net:25461/clarotv/20012019/176
 #EXTINF:-1,CLA: TELEMUNDO INT
@@ -30,18 +30,20 @@ http://ligatv.net:25461/clarotv/20012019/219
 http://ligatv.net:25461/clarotv/20012019/214
 #EXTINF:-1,CLC: FXM
 http://ligatv.net:25461/clarotv/20012019/218
-#EXTINF:-1,CLC: FOX ACTION
-http://ligatv.net:25461/clarotv/20012019/213
-#EXTINF:-1,CLC: FOX CLASSICS
-http://ligatv.net:25461/clarotv/20012019/210
-#EXTINF:-1,CLC: FOX CINEMA
-http://ligatv.net:25461/clarotv/20012019/211
-#EXTINF:-1,CLC: FOX MOVIES
-http://ligatv.net:25461/clarotv/20012019/206
-#EXTINF:-1,CLC: FOX COMEDY
-http://ligatv.net:25461/clarotv/20012019/209
-#EXTINF:-1,CLC: FOX FAMILY
-http://ligatv.net:25461/clarotv/20012019/208
+#EXTINF:-1,Fox Premium Action
+http://micine.club:8088/live/esnadire/ellobo123/318.ts
+#EXTINF:-1,Fox Premium Cinema
+http://micine.club:8088/live/esnadire/ellobo123/319.ts
+#EXTINF:-1,Fox Premium Classics
+http://micine.club:8088/live/esnadire/ellobo123/320.ts
+#EXTINF:-1,Fox Premium Comedy
+http://micine.club:8088/live/esnadire/ellobo123/321.ts
+#EXTINF:-1,Fox Premium Family
+http://micine.club:8088/live/esnadire/ellobo123/322.ts
+#EXTINF:-1,Fox Premium Movies
+http://micine.club:8088/live/esnadire/ellobo123/323.ts
+#EXTINF:-1,Fox Premium Series
+http://micine.club:8088/live/esnadire/ellobo123/324.ts
 #EXTINF:-1,CLC: GOLDEN +
 http://ligatv.net:25461/clarotv/20012019/216
 #EXTINF:-1,CLC: Golden PREMIER
