@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/thumbs/580b585b2edbce24c47b2878.png" group-title="PAGO",INFORMACION DE PAGO
-https://www.dropbox.com/s/blsaify9oop9vm0/%281%29%20EXPLICACION%20DE%20APP%20--%20ACELERADOR%20BITEL%20--%20TV%20EN%20VIVO%2C%20RADIO%20--%20WWE%20-%20YouTube.MP4?dl=0
+#EXTINF:0, tvg-id="1" tvg-logo="amc.png" tvg-name="PAGO"  group-title="PAGO",INFORMATE AQUI
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?supertvlat=%2F.ts
 
 #EXTINF:-1,MX: IMAGENTV
 http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/40177.m3u8
