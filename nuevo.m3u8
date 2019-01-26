@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:1, tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/ok-i%C5%9Fareti-png-6.png" tvg-name="Willax"  group-title="Peru",Willax
+http://api.new.livestream.com/accounts/26619010/events/7987650/live.m3u8
+
+#EXTINF:-1,  tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/ok-i%C5%9Fareti-png-6.png" 
+tvg-name="Antares"  group-title="Peru",Antares
+https://5949aa132c8fb.streamlock.net:554/iptvantares/liveantarestv/playlist.m3u8
+
 #EXTINF:-1,MX: IMAGENTV
 http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/40177.m3u8
 #EXTINF:-1,MX: MC
