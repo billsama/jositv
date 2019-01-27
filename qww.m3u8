@@ -1,5 +1,220 @@
 #EXTM3U
 
+
+
+#EXTINF:-1,MX: AZTECA UNO
+http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+#EXTINF:-1,MX: FOROTV
+https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm_1280x720_2500k.m3u8
+#EXTINF:-1,MX: IMAGENTV
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/40177.m3u8
+#EXTINF:-1,MX: MC
+http://ligatv.net:25461/clarotv/27012019/2
+#EXTINF:-1,MX: MVSTV
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/61960.m3u8
+#EXTINF:-1,MX: NVM Mich
+http://ligatv.net:25461/clarotv/27012019/25
+#EXTINF:-1,MX: TVC
+http://ligatv.net:25461/clarotv/27012019/35
+#EXTINF:-1,CLA: ANTENA 3
+http://ligatv.net:25461/clarotv/27012019/177
+#EXTINF:-1,CLA: CARACOL
+http://ligatv.net:25461/clarotv/27012019/175
+#EXTINF:-1,CLA: LAS ESTRELLAS LA
+http://ligatv.net:25461/clarotv/27012019/176
+#EXTINF:-1,CLA: TELEMUNDO INT
+http://ligatv.net:25461/clarotv/27012019/171
+#EXTINF:-1,CLC: AMC
+http://ligatv.net:25461/clarotv/27012019/226
+#EXTINF:-1,CLC: CINECANAL
+http://ligatv.net:25461/clarotv/27012019/225
+#EXTINF:-1,CLC: CINEMA DINAMITA
+http://ligatv.net:25461/clarotv/27012019/223
+#EXTINF:-1,CLC: CINE LATINO
+http://ligatv.net:25461/clarotv/27012019/222
+#EXTINF:-1,CLC: CINEMA +
+http://ligatv.net:25461/clarotv/27012019/220
+#EXTINF:-1,CLC: CINEMAX
+http://ligatv.net:25461/clarotv/27012019/224
+#EXTINF:-1,CLC: CLARO CINEMA
+http://ligatv.net:25461/clarotv/27012019/221
+#EXTINF:-1,CLC: DEPELICULA
+http://ligatv.net:25461/clarotv/27012019/219
+#EXTINF:-1,CLC: DHE
+http://ligatv.net:25461/clarotv/27012019/214
+#EXTINF:-1,CLC: FXM
+http://ligatv.net:25461/clarotv/27012019/218
+#EXTINF:-1,CLC: FOX ACTION
+http://ligatv.net:25461/clarotv/27012019/213
+#EXTINF:-1,CLC: FOX CLASSICS
+http://ligatv.net:25461/clarotv/27012019/210
+#EXTINF:-1,CLC: FOX CINEMA
+http://ligatv.net:25461/clarotv/27012019/211
+#EXTINF:-1,CLC: FOX MOVIES
+http://ligatv.net:25461/clarotv/27012019/206
+#EXTINF:-1,CLC: FOX COMEDY
+http://ligatv.net:25461/clarotv/27012019/209
+#EXTINF:-1,CLC: FOX FAMILY
+http://ligatv.net:25461/clarotv/27012019/208
+#EXTINF:-1,CLC: GOLDEN +
+http://ligatv.net:25461/clarotv/27012019/216
+#EXTINF:-1,CLC: Golden PREMIER
+http://ligatv.net:25461/clarotv/27012019/215
+#EXTINF:-1,CLC: HBO
+http://ligatv.net:25461/clarotv/27012019/204
+#EXTINF:-1,CLC: HBO 2
+http://ligatv.net:25461/clarotv/27012019/203
+#EXTINF:-1,CLC: HBO PLUS
+http://ligatv.net:25461/clarotv/27012019/202
+#EXTINF:-1,CLC: HBO FAMILY
+http://ligatv.net:25461/clarotv/27012019/201
+#EXTINF:-1,CLC: HBO SIGNATURE
+http://ligatv.net:25461/clarotv/27012019/200
+#EXTINF:-1,CLC: ISAT
+http://ligatv.net:25461/clarotv/27012019/199
+#EXTINF:-1,CLC: MAX PRIME
+http://ligatv.net:25461/clarotv/27012019/197
+#EXTINF:-1,CLC: MAX UP
+http://ligatv.net:25461/clarotv/27012019/198
+#EXTINF:-1,CLC: MULTIPREMIER
+http://ligatv.net:25461/clarotv/27012019/196
+#EXTINF:-1,CLC: PARAMOUNT
+http://ligatv.net:25461/clarotv/27012019/193
+#EXTINF:-1,CLC: SPACE
+http://ligatv.net:25461/clarotv/27012019/192
+#EXTINF:-1,CLC: STUDIO Universal
+http://ligatv.net:25461/clarotv/27012019/191
+#EXTINF:-1,CLC: SUNDANCE
+http://ligatv.net:25461/clarotv/27012019/190
+#EXTINF:-1,CLC: TCM
+http://ligatv.net:25461/clarotv/27012019/189
+#EXTINF:-1,CLC: TNT
+http://ligatv.net:25461/clarotv/27012019/188
+#EXTINF:-1,CLI: BABY TV
+http://ligatv.net:25461/clarotv/27012019/286
+#EXTINF:-1,CLI: BOOMERANG
+http://ligatv.net:25461/clarotv/27012019/285
+#EXTINF:-1,CLI: CARTOON Net
+http://ligatv.net:25461/clarotv/27012019/284
+#EXTINF:-1,CLI: Discovery KIDS
+http://ligatv.net:25461/clarotv/27012019/280
+#EXTINF:-1,CLI: DISNEY CH
+http://ligatv.net:25461/clarotv/27012019/283
+#EXTINF:-1,CLI: DISNEY JR
+http://ligatv.net:25461/clarotv/27012019/282
+#EXTINF:-1,CLI: DISNEY XD
+http://ligatv.net:25461/clarotv/27012019/281
+#EXTINF:-1,CLI: Natgeo KIDS
+http://ligatv.net:25461/clarotv/27012019/279
+#EXTINF:-1,CLI: NICK
+http://ligatv.net:25461/clarotv/27012019/278
+#EXTINF:-1,CLI: NICK 2 HD
+http://ligatv.net:25461/clarotv/27012019/277
+#EXTINF:-1,CLI: NICK JR
+http://ligatv.net:25461/clarotv/27012019/276
+#EXTINF:-1,CLI: TOONCAST
+http://ligatv.net:25461/clarotv/27012019/275
+#EXTINF:-1,CLM: AZMUNDO
+http://ligatv.net:25461/clarotv/27012019/243
+#EXTINF:-1,CLM: ANIMAL PLANET
+http://ligatv.net:25461/clarotv/27012019/242
+#EXTINF:-1,CLM: DISCOVERY CH
+http://ligatv.net:25461/clarotv/27012019/241
+#EXTINF:-1,CLM: CIVILIZATION Discovery
+http://ligatv.net:25461/clarotv/27012019/240
+#EXTINF:-1,CLM: SCIENCE Discovery
+http://ligatv.net:25461/clarotv/27012019/239
+#EXTINF:-1,CLM: TURBO Discovery
+http://ligatv.net:25461/clarotv/27012019/237
+#EXTINF:-1,CLM: THEATER Discovery
+http://ligatv.net:25461/clarotv/27012019/238
+#EXTINF:-1,CLM: WORLD Discovery
+http://ligatv.net:25461/clarotv/27012019/236
+#EXTINF:-1,CLM: FOOD Network
+http://149.56.26.6:25461/live/cgct05/PAkR2vXVcsffgg6k/60259.m3u8
+#EXTINF:-1,CLM: GOURMET
+http://ligatv.net:25461/clarotv/27012019/229
+#EXTINF:-1,CLM: H2
+http://ligatv.net:25461/clarotv/27012019/233
+#EXTINF:-1,CLM: HISTORY
+http://ligatv.net:25461/clarotv/27012019/234
+#EXTINF:-1,CLM: H&H Discovery
+http://ligatv.net:25461/clarotv/27012019/235
+#EXTINF:-1,CLM: HOLA TV
+http://ligatv.net:25461/clarotv/27012019/232
+#EXTINF:-1,CLM: INVESTIGATION Discovery
+http://ligatv.net:25461/clarotv/27012019/231
+#EXTINF:-1,CLM: MASCHIC
+http://ligatv.net:25461/clarotv/27012019/230
+#EXTINF:-1,CLM: NATGEO
+http://ligatv.net:25461/clarotv/27012019/228
+#EXTINF:-1,CLM: NATGEO WILD
+http://ligatv.net:25461/clarotv/27012019/227
+#EXTINF:-1,CLN: BLOOMBERG
+http://ligatv.net:25461/clarotv/27012019/168
+#EXTINF:-1,CLN: CABLE NOTICIAS
+http://ligatv.net:25461/clarotv/27012019/167
+#EXTINF:-1,CLN: CNN ES
+http://ligatv.net:25461/clarotv/27012019/166
+#EXTINF:-1,CLS: AZCORAZON HD
+http://ligatv.net:25461/clarotv/27012019/274
+#EXTINF:-1,CLS: COMEDY CENTRAL
+http://ligatv.net:25461/clarotv/27012019/260
+#EXTINF:-1,CLS: E! Enterteiment
+http://ligatv.net:25461/clarotv/27012019/259
+#EXTINF:-1,CLS: FOX LIFE
+http://ligatv.net:25461/clarotv/27012019/257
+#EXTINF:-1,CLS: A&E
+http://ligatv.net:25461/clarotv/27012019/263
+#EXTINF:-1,CLS: AXN
+http://ligatv.net:25461/clarotv/27012019/261
+#EXTINF:-1,CLS: FOX
+http://ligatv.net:25461/clarotv/27012019/258
+#EXTINF:-1,CLS: FOX SERIES
+http://ligatv.net:25461/clarotv/27012019/256
+#EXTINF:-1,CLS: FX
+http://ligatv.net:25461/clarotv/27012019/255
+#EXTINF:-1,CLS: LIFETIME
+http://ligatv.net:25461/clarotv/27012019/254
+#EXTINF:-1,CLS: PASIONES
+http://ligatv.net:25461/clarotv/27012019/253
+#EXTINF:-1,CLS: RCN TELENOVELAS
+http://ligatv.net:25461/clarotv/27012019/252
+#EXTINF:-1,CLS: TLC
+http://ligatv.net:25461/clarotv/27012019/249
+#EXTINF:-1,CLS: SONY
+http://ligatv.net:25461/clarotv/27012019/251
+#EXTINF:-1,CLS: TBS
+http://ligatv.net:25461/clarotv/27012019/250
+#EXTINF:-1,CLS: TLNOVELAS
+http://ligatv.net:25461/clarotv/27012019/248
+#EXTINF:-1,CLS: TRUTV
+http://ligatv.net:25461/clarotv/27012019/246
+#EXTINF:-1,CLS: UNIVERSAL CH
+http://ligatv.net:25461/clarotv/27012019/245
+#EXTINF:-1,CLS: TNT SERIES
+http://ligatv.net:25461/clarotv/27012019/247
+#EXTINF:-1,CLS: WARNER
+http://ligatv.net:25461/clarotv/27012019/244
+#EXTINF:-1,CLN: TVE ES
+http://ligatv.net:25461/clarotv/27012019/170
+#EXTINF:-1,CMU: MTV
+http://ligatv.net:25461/clarotv/27012019/184
+#EXTINF:-1,CMU: MTV HITS .
+http://ligatv.net:25461/clarotv/27012019/183
+#EXTINF:-1,CMU: MTV LIVE
+http://ligatv.net:25461/clarotv/27012019/182
+#EXTINF:-1,CMU: VH1 .
+http://ligatv.net:25461/clarotv/27012019/179
+#EXTINF:-1,CMU: VH1 CLASSIC
+http://ligatv.net:25461/clarotv/27012019/178
+#EXTINF:-1,CLA: GLITZ
+http://ligatv.net:25461/clarotv/27012019/172
+#EXTINF:-1,CLA: CADENA H
+http://ligatv.net:25461/clarotv/27012019/173
+#EXTINF:-1,CLA: CLARO TV
+http://ligatv.net:25461/clarotv/27012019/174
+
 #EXTINF:-1,Afizzionados
 http://micine.club:8088/live/jluis289/ellobo123&output=ts/519.ts
 
