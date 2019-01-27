@@ -2,33 +2,33 @@
 #EXTINF:-1,tvg-logo="https://images.vexels.com/media/users/3/145754/isolated/preview/e928306ecfe83395ec9d65c8fe502226-monedas-bolsa-de-dinero-by-vexels.png", INFORMACION DE PAGOS
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?
 
-#EXTINF:-1,CLA: ANTENA 3
+#EXTINF:-1,ANTENA 3
 http://micine.club:8088/live/esnadire/ellobo123/667.ts
-#EXTINF:-1,CLA: CARACOL
+#EXTINF:-1,CARACOL
 http://micine.club:8088/live/esnadire/ellobo123/386.ts
-#EXTINF:-1,CLA: LAS ESTRELLAS LA
+#EXTINF:-1, LAS ESTRELLAS LA
 http://micine.club:8088/live/esnadire/ellobo123/301.ts
-#EXTINF:-1,CLA: TELEMUNDO INT
+#EXTINF:-1, TELEMUNDO INT
 http://micine.club:8088/liev/esnadire/ellobo123/325.ts
-#EXTINF:-1,CLC: AMC
+#EXTINF:-1,AMC
 http://micine.club:8088/live/esnadire/ellobo123/283.ts
-#EXTINF:-1,CLC: CINECANAL
+#EXTINF:-1,CINECANAL
 http://micine.club:8088/live/esnadire/ellobo123/393.ts
-#EXTINF:-1,DeporTV
+#EXTINF:-1,CINEMA
 http://micine.club:8088/live/esnadire/ellobo123/401.ts
-#EXTINF:-1,CLC: CINE LATINO
+#EXTINF:-1,CINE LATINO
 http://micine.club:8088/live/esnadire/ellobo123/392.ts
 #EXTINF:-1,Cinema Plus
 http://micine.club:8088/live/esnadire/ellobo123/461.ts
-#EXTINF:-1,CLC: CINEMAX
+#EXTINF:-1,CINEMAX
 http://micine.club:8088/live/esnadire/ellobo123/394.ts
 #EXTINF:-1,Concert Channel
 http://micine.club:8088/live/esnadire/ellobo123/399.ts
-#EXTINF:-1,CLC: DEPELICULA
+#EXTINF:-1,DEPELICULA
 http://micine.club:8088/live/esnadire/ellobo123/400.ts
-#EXTINF:-1,CLC: DHE
+#EXTINF:-1,DHE
 http://micine.club:8088/live/esnadire/ellobo123/402.ts
-#EXTINF:-1,CLC: FXM
+#EXTINF:-1,FXM
 http://micine.club:8088/live/esnadire/ellobo123/260.ts
 #EXTINF:-1,Fox Premium Action
 http://micine.club:8088/live/esnadire/ellobo123/318.ts
@@ -44,7 +44,7 @@ http://micine.club:8088/live/esnadire/ellobo123/322.ts
 http://micine.club:8088/live/esnadire/ellobo123/323.ts
 #EXTINF:-1,Fox Premium Series
 http://micine.club:8088/live/esnadire/ellobo123/324.ts
-#EXTINF:-1,CLC: GOLDEN +
+#EXTINF:-1,GOLDEN PLUS
 http://micine.club:8088/live/esnadire/ellobo123/266.ts
 #EXTINF:-1,Golden Edge
 http://micine.club:8088/live/esnadire/ellobo123/265.ts
@@ -66,35 +66,35 @@ http://micine.club:8088/live/esnadire/ellobo123/263.ts¿
 http://micine.club:8088/live/esnadire/ellobo123/281.ts
 #EXTINF:-1,Max Up
 http://micine.club:8088/live/esnadire/ellobo123/356.ts
-#EXTINF:-1,CLC: MULTIPREMIER
+#EXTINF:-1,MULTIPREMIER
 http://micine.club:8088/live/esnadire/ellobo123/235.ts
-#EXTINF:-1,CLC: PARAMOUNT
+#EXTINF:-1,PARAMOUNT
 http://micine.club:8088/live/esnadire/ellobo123/245.ts
-#EXTINF:-1,CLC: SPACE
+#EXTINF:-1,SPACE
 http://micine.club:8088/live/esnadire/ellobo123/250.ts
-#EXTINF:-1,CLC: STUDIO Universal
+#EXTINF:-1,STUDIO Universal
 http://micine.club:8088/live/esnadire/ellobo123/230.ts
-#EXTINF:-1,CLC: SUNDANCE
+#EXTINF:-1,SUNDANCE
 http://micine.club:8088/live/esnadire/ellobo123/231.ts
-#EXTINF:-1,CLC: TCM
+#EXTINF:-1,TCM
 http://micine.club:8088/live/esnadire/ellobo123/227.ts
-#EXTINF:-1,CLC: TNT
+#EXTINF:-1,TNT
 http://micine.club:8088/live/esnadire/ellobo123/329.ts
-#EXTINF:-1,CLI: BABY TV
+#EXTINF:-1,BABY TV
 http://micine.club:8088/live/esnadire/ellobo123/365.ts
-#EXTINF:-1,CLI: BOOMERANG
+#EXTINF:-1,BOOMERANG
 http://micine.club:8088/live/esnadire/ellobo123/368.ts
-#EXTINF:-1,CLI: CARTOON Net
+#EXTINF:-1,CARTOON Net
 http://micine.club:8088/live/esnadire/ellobo123/387.ts
-#EXTINF:-1,CLI: Discovery KIDS
+#EXTINF:-1,Discovery KIDS
 http://micine.club:8088/live/esnadire/ellobo123/288.ts
-#EXTINF:-1,CLI: DISNEY CH
+#EXTINF:-1,DISNEY CH
 http://micine.club:8088/live/esnadire/ellobo123/295.ts
-#EXTINF:-1,CLI: DISNEY JR
+#EXTINF:-1,DISNEY JR
 http://micine.club:8088/live/esnadire/ellobo123/296.ts
-#EXTINF:-1,CLI: DISNEY XD
+#EXTINF:-1,DISNEY XD
 http://micine.club:8088/live/esnadire/ellobo123/297.ts
-#EXTINF:-1,CLI: Natgeo KIDS
+#EXTINF:-1,Natgeo KIDS
 http://micine.club:8088/live/esnadire/ellobo123/238.ts
 #EXTINF:-1,Nick 2
 http://micine.club:8088/live/esnadire/ellobo123/241.ts
@@ -104,11 +104,11 @@ http://micine.club:8088/live/esnadire/ellobo123/242.ts
 http://micine.club:8088/live/esnadire/ellobo123/243.ts
 #EXTINF:-1,Nicktoons
 http://micine.club:8088/live/esnadire/ellobo123/244.ts
-#EXTINF:-1,CLI: TOONCAST
+#EXTINF:-1,TOONCAST
 http://micine.club:8088/live/esnadire/ellobo123/332.ts
-#EXTINF:-1,CLM: AZMUNDO
+#EXTINF:-1,AZMUNDO
 http://micine.club:8088/live/esnadire/ellobo123/362.ts
-#EXTINF:-1,CLM: ANIMAL PLANET
+#EXTINF:-1,ANIMAL PLANET
 http://micine.club:8088/live/esnadire/ellobo123/355.ts
 #EXTINF:-1,Discovery Channel
 http://micine.club:8088/live/esnadire/ellobo123/285.ts
@@ -126,68 +126,68 @@ http://micine.club:8088/live/esnadire/ellobo123/406.ts
 http://micine.club:8088/live/esnadire/ellobo123/293.ts
 #EXTINF:-1,Discovery World
 http://micine.club:8088/live/esnadire/ellobo123/294.ts
-#EXTINF:-1,CLM: FOOD Network
+#EXTINF:-1,FOOD Network
 http://micine.club:8088/live/esnadire/ellobo123/315.ts
-#EXTINF:-1,CLM: GOURMET
+#EXTINF:-1,GOURMET
 http://micine.club:8088/live/esnadire/ellobo123/303.ts
-#EXTINF:-1,CLM: H2
+#EXTINF:-1,H2
 http://micine.club:8088/live/esnadire/ellobo123/268.ts
-#EXTINF:-1,CLM: HISTORY
+#EXTINF:-1,HISTORY
 http://micine.club:8088/live/esnadire/ellobo123/274.ts
-#EXTINF:-1,CLM: HOLA TV
+#EXTINF:-1,HOLA TV
 http://micine.club:8088/live/esnadire/ellobo123/275.ts
-#EXTINF:-1,CLM: INVESTIGATION Discovery
+#EXTINF:-1,INVESTIGATION Discovery
 http://micine.club:8088/live/esnadire/ellobo123/278.ts
 #EXTINF:-1,Htv
 http://micine.club:8088/live/esnadire/ellobo123/276.ts
-#EXTINF:-1,CLM: NATGEO
+#EXTINF:-1,NATGEO
 http://micine.club:8088/live/esnadire/ellobo123/237.ts
-#EXTINF:-1,CLM: NATGEO WILD
+#EXTINF:-1,NATGEO WILD
 http://micine.club:8088/live/esnadire/ellobo123/239.ts
-#EXTINF:-1,CLN: Nat-Geo Mundo
+#EXTINF:-1,Nat-Geo Mundo
 http://micine.club:8088/live/esnadire/ellobo123/236.ts
-#EXTINF:-1,CLN: CABLE NOTICIAS
+#EXTINF:-1,CABLE NOTICIAS
 http://micine.club:8088/live/esnadire/ellobo123/369.ts
-#EXTINF:-1,CLN: CNN ES
+#EXTINF:-1,CNN ES
 http://micine.club:8088/live/esnadire/ellobo123/396.ts
-#EXTINF:-1,CLS: AZCORAZON HD
+#EXTINF:-1,AZCORAZON HD
 http://micine.club:8088/live/esnadire/ellobo123/357.ts
-#EXTINF:-1,CLS: COMEDY CENTRAL
+#EXTINF:-1,COMEDY CENTRAL
 http://micine.club:8088/live/esnadire/ellobo123/398.ts
-#EXTINF:-1,CLS: E! Enterteiment
+#EXTINF:-1,E! Enterteiment
 http://micine.club:8088/live/esnadire/ellobo123/300.ts
-#EXTINF:-1,CLS: FOX LIFE
+#EXTINF:-1,FOX LIFE
 http://micine.club:8088/live/esnadire/ellobo123/317.ts
-#EXTINF:-1,CLS: A&E
+#EXTINF:-1,A&E
 http://micine.club:8088/live/esnadire/ellobo123/284.ts
-#EXTINF:-1,CLS: AXN
+#EXTINF:-1,AXN
 http://micine.club:8088/live/esnadire/ellobo123/282.ts
-#EXTINF:-1,CLS: FOX
+#EXTINF:-1,FOX
 http://micine.club:8088/live/esnadire/ellobo123/373.ts
-#EXTINF:-1,CLS: FX
+#EXTINF:-1,FX
 http://micine.club:8088/live/esnadire/ellobo123/257.ts
-#EXTINF:-1,CLS: LIFETIME
+#EXTINF:-1,LIFETIME
 http://micine.club:8088/live/esnadire/ellobo123/279.ts
-#EXTINF:-1,CLS: PASIONES
+#EXTINF:-1,PASIONES
 http://micine.club:8088/live/esnadire/ellobo123/246.ts
-#EXTINF:-1,CLS: RCN TELENOVELAS
+#EXTINF:-1,RCN TELENOVELAS
 http://micine.club:8088/live/esnadire/ellobo123/248.ts
-#EXTINF:-1,CLS: SONY
+#EXTINF:-1,SONY
 http://micine.club:8088/live/esnadire/ellobo123/249.ts
-#EXTINF:-1,CLS: TBS
+#EXTINF:-1,TBS
 http://micine.club:8088/live/esnadire/ellobo123/228.ts
-#EXTINF:-1,CLS: TLNOVELAS
+#EXTINF:-1,TLNOVELAS
 http://micine.club:8088/live/esnadire/ellobo123/328.ts
-#EXTINF:-1,CLS: TRUTV
+#EXTINF:-1,TRUTV
 http://micine.club:8088/live/esnadire/ellobo123/333.ts
-#EXTINF:-1,CLS: UNIVERSAL CH
+#EXTINF:-1,UNIVERSAL CH
 http://micine.club:8088/live/esnadire/ellobo123/338.ts
-#EXTINF:-1,CLS: TNT SERIES
+#EXTINF:-1,TNT SERIES
 http://micine.club:8088/live/esnadire/ellobo123/330.ts
-#EXTINF:-1,CLS: WARNER
+#EXTINF:-1,WARNER
 http://micine.club:8088/live/esnadire/ellobo123/342.ts
-#EXTINF:-1,CLN: TVE ES
-http://ligatv.net:25461/clarotv/20012019/170
+#EXTINF:-1,Ben 10 (24h)
+http://micine.club:8088/live/esnadire/ellobo123/410.ts
 #EXTINF:-1,WWE HD. (US)
 http://micine.club:8088/live/esnadire/ellobo123/226.ts
 #EXTINF:-1,MTV
@@ -196,31 +196,31 @@ http://micine.club:8088/live/esnadire/ellobo123/232.ts
 http://micine.club:8088/live/esnadire/ellobo123/233.ts
 #EXTINF:-1,MTV Live
 http://micine.club:8088/live/esnadire/ellobo123/234.ts
-#EXTINF:-1,CMU: VH1 .
+#EXTINF:-1,VH1 .
 http://micine.club:8088/live/esnadire/ellobo123/340.ts
-#EXTINF:-1,CMU: VH1 CLASSIC
+#EXTINF:-1,VH1 CLASSIC
 http://micine.club:8088/live/esnadire/ellobo123/341.ts
-#EXTINF:-1,CLA: GLITZ
+#EXTINF:-1,GLITZ
 http://micine.club:8088/live/esnadire/ellobo123/262.ts
 ##EXTINF:-1,La Familia P. Luche (24h)
 http://micine.club:8088/live/esnadire/ellobo123/441.ts
-#EXTINF:-1,CLA: CLARO TV
+#EXTINF:-1,CLARO TV
 http://micine.club:8088/live/esnadire/ellobo123/395.ts
 #EXTINF:-1,El Chavo del 8 (24h)
 http://micine.club:8088/live/esnadire/ellobo123/428.ts
 #EXTINF:-1,El Chapulin Colorado (24h)
 http://micine.club:8088/live/esnadire/ellobo123/426.ts
-#EXTINF:-1,CLC: Tyc Sports 
+#EXTINF:-1,Tyc Sports 
 http://micine.club:8088/live/esnadire/ellobo123/334.ts
-#EXTINF:-1,CLC: Fox Sports 1 MX
+#EXTINF:-1,Fox Sports 1 MX
 http://micine.club:8088/live/esnadire/ellobo123/251.ts
-#EXTINF:-1,CLC: Fox Sports 1 Sur
+#EXTINF:-1,Fox Sports 1 Sur
 http://micine.club:8088/live/esnadire/ellobo123/252.ts
-#EXTINF:-1,CLC: Fox Sports 2 MX
+#EXTINF:-1,Fox Sports 2 MX
 http://micine.club:8088/live/esnadire/ellobo123/253.ts
-#EXTINF:-1,CLC: Fox Sports 2 Sur
+#EXTINF:-1,Fox Sports 2 Sur
 http://micine.club:8088/live/esnadire/ellobo123/254.ts
-#EXTINF:-1,CLC: Fox Sports 3 MX
+#EXTINF:-1,Fox Sports 3 MX
 http://micine.club:8088/live/esnadire/ellobo123/255.ts
-#EXTINF:-1,CLC: Fox Sports 3 Sur
+#EXTINF:-1,Fox Sports 3 Sur
 http://micine.club:8088/live/esnadire/ellobo123/256.ts
