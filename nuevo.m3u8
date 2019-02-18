@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,tvg-logo="https://images.vexels.com/media/users/3/145754/isolated/preview/e928306ecfe83395ec9d65c8fe502226-monedas-bolsa-de-dinero-by-vexels.png", INFORMACION DE PAGOS
-https://dl.dropboxusercontent.com/s/43mujdt7rud5g5h/USUARIO_DEUDA.mp4?dl=0
+#EXTINF:-1,tvg-logo="https://images.vexels.com/media/users/3/145754/isolated/preview/e928306ecfe83395ec9d65c8fe502226-monedas-bolsa-de-dinero-by-vexels.png", USUARIO ACTIVO PREMIUN
+https://dl.dropboxusercontent.com/s/f12r04n5m1zvt2j/USUARIO_ACTIVO.mp4?dl=0
 #EXTINF:-1,tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/live-png-logo-4.png", EN VIVO
 http://192.168.0.107:8080/live
 #EXTINF:-1,ANTENA 3
